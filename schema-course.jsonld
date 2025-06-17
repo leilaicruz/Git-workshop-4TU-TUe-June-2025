@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Introduction to Version Control with Git",
+  "description": "This course provides an introductory look into version control systems and the basics of Git software.",
+  "provider": {
+    "@type": "Organization",
+    "name": "4TU.ResearchData",
+    "sameAs": "https://data.4tu.nl"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "startDate": "2025-06-25",
+    "endDate": "2025-06-25",
+    "instructor": {
+      "@type": "Person",
+      "name": "Dr. Leila Iñigo de la Cruz",
+      "url": "https://data.4tu.nl/info/about-4turesearchdata/contact"
+    }
+  }
+}
