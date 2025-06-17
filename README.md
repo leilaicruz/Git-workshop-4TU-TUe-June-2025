@@ -2,6 +2,9 @@
 
 Welcome to the **Introduction to version control with Git**! for Eindhoven University of Technology, on 25th June 2025.  This repository contains instructions for the one-day hands-on workshop focused on **version control with Git**, **collaborative best practices**, and **getting to know [4TU.ResearchData](data.4tu.nl)**.
 
+[![schema.org Course](https://img.shields.io/badge/schema--org-Course-blue.svg)](./schema-course.jsonld)
+
+
 ## 🚀 Workshop Overview
 
 This workshop is designed to introduce participants to **Git and version control**, helping them to:
