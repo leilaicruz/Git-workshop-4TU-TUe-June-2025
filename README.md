@@ -36,6 +36,8 @@ Before attending the workshop, please ensure you have:
 
 - **[Git Lesson](Lesson_development/git_lesson_verbosed_structure.md)**: Introduction to Git, tracking changes, and collaborating on research projects.
 
+- [Collaborative document](https://edu.nl/htaw9)
+
 
 ## 🔗 Resources
 - [Software Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
