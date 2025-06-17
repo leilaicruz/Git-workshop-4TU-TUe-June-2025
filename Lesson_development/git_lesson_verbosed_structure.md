@@ -1,11 +1,3 @@
----
-
-title: "Version Control with Git: Beginner's Workshop"
-author: "Leila Iñigo de la Cruz"
-date: "Workshop Day 1"
-format: gfm
------------
-
 # 🎓 Workshop Lesson Plan: Git Basics
 
 **Note:** Instructor comments are marked as `> Instructor Note:` and should help guide the pacing, demonstration strategy, and what to emphasize. Everything else is intended for participants or for use during live demos.
