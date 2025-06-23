@@ -39,6 +39,15 @@ Before attending the workshop, please ensure you have:
 - A **terminal** or **Git Bash** (Windows users should install [Git for Windows](https://gitforwindows.org/))
 - A basic understanding of Unix shell commands. See [here](https://swcarpentry.github.io/shell-novice/02-filedir.html)
 
+### Why teach Git on the command-line (Unix shell) rather than with a GUI (Graphical User Interface)?:
+
+- **Deep conceptual understanding** (the CLI forces you to perform each Git operation explicitly, so you see exactly how things work, whereas GUIs often bundle actions behind buttons, obscuring the underlying mechanics.)
+
+- **Environment-agnostic skills** (the Unix-shell CLI is consistent across Linux, macOS, Windows (via WSL) and remote/headless systems(HPC servers), while each GUI client has its own interface and may not be available in all environments.)
+
+- **Scriptability for reproducibility and automation**: (CLI commands can be composed into scripts or integrated into automated pipelines—key for reproducible research)
+
+
 ## 📖 Workshop Materials
 
 - **[Git Lesson](Lesson_development/git_lesson_verbosed_structure.md)**: Introduction to Git, tracking changes, and collaborating on research projects.
