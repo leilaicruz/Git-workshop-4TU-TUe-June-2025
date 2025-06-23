@@ -4,6 +4,10 @@ Welcome to the **Introduction to version control with Git**! for Eindhoven Unive
 
 [![schema.org Course](https://img.shields.io/badge/schema--org-Course-blue.svg)](./schema-course.jsonld)
 
+**Links:**
+
+- Mentimeter Git Intro- https://edu.nl/cma84
+- Collaborative notes- https://edu.nl/htaw9 
 
 ## 🚀 Workshop Overview
 
