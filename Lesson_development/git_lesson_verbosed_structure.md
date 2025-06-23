@@ -32,7 +32,7 @@ export PS1='$ '
 
 * Start with [CodeiMD collaborative notes](https://edu.nl/htaw9) and icebreaker.
 * Transition to Git introduction with [slides](Lesson_development/Presentations/Git-intro-lesson.pptx).
-* Use [Mentimeter poll](https://www.mentimeter.com/app/presentation/alf22ui5d9tf7reg41ksg1ksojnusgh6/edit?question=pjxghpfddrmb) in presenter mode.
+* Use [Mentimeter poll](https://edu.nl/cma84) in [presenter mode](https://www.mentimeter.com/app/folder/2064636) .
 
 ### 🔧 Step 1: Setting Up Git \[6 min]
 
@@ -171,6 +171,11 @@ git diff --staged
 git commit -m "add docstring"
 ```
 
+```bash
+
+git show # it will show by default what was done in the last commit
+
+```
 ---
 
 ### 📁 Step 5: Working with Empty Directories \[4 min]
@@ -311,7 +316,7 @@ git diff HEAD~3 calculate_mean.py
 
 ```bash
 git log --oneline  # Copy a commit ID
-git diff <commit-id> HEAD calculate_mean.py
+git diff <commit-id> calculate_mean.py
 ```
 
 ### f. Use `git show`
