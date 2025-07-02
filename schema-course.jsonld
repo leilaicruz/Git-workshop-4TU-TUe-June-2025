@@ -3,6 +3,9 @@
   "@type": "Course",
   "name": "Introduction to Version Control with Git",
   "description": "This course provides an introductory look into version control systems and the basics of Git software.",
+  "keywords": "version control, Git, collaboration, open science, reproducibility",
+  "learningResourceType": "workshop",
+  "educationalLevel": "beginner",
   "provider": {
     "@type": "Organization",
     "name": "4TU.ResearchData",
@@ -12,10 +15,17 @@
     "@type": "CourseInstance",
     "startDate": "2025-06-25",
     "endDate": "2025-06-25",
+    "url": "https://taxila.nl/events/introduction-to-version-control-with-git-274a8a45-62db-4769-94d7-7cf8b1a8bc97",
     "instructor": {
       "@type": "Person",
       "name": "Dr. Leila Iñigo de la Cruz",
       "url": "https://data.4tu.nl/info/about-4turesearchdata/contact"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "EUR",
+      "description": "Free of charge for 4TU member institutions"
     }
   }
 }
